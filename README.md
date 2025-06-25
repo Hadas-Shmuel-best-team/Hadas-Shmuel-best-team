@@ -12,7 +12,7 @@
 
   <li>This repo is our playground. Expect passion projects, a bit of chaos, and a whole lot of love for code 🚀</li>
 
-  <li><strong>— Hadas & Shmuel 🚀🧠🎯 The Best Team Ever</strong></li>
+  <strong>— Hadas & Shmuel 🚀🧠🎯 The Best Team Ever</strong>
 </ul>
 
 
