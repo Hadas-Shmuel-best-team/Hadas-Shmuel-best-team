@@ -1,16 +1,16 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
-<p align="center">
-  Hey! We’re Hadas and Shmuel — two devs who just love building stuff together 💻🎉<br><br>
+<p align="left">
+  Hey! We’re Hadas and Shmuel — two devs who just love building stuff together 💻🎉<br>
 
-  We’re not a company or a startup — just two friends chasing ideas, writing code, and having fun while doing it. We build for the joy of it, for the curiosity, and honestly… because it’s kinda addictive 🤓<br><br>
+  We’re not a company or a startup — just two friends chasing ideas, writing code, and having fun while doing it.<br> We build for the joy of it, for the curiosity, and honestly… because it’s kinda addictive 🤓<br>
 
-  So far? We made a **CT scan analyzer** (yes, like actual image processing stuff 🧠📊). Still can’t believe it worked. *whoa... we really did that!.*💥<br><br>
+  So far? We made a **CT scan analyzer** (yes, like actual image processing stuff 🧠📊). <br>Still can’t believe it worked. *whoa... we really did that!.*💥<br>
 
-  Next up: an **AI-powered dev environment** — something smart, helpful, and super experimental 🤖⚙️<br><br>
+  Next up: an **AI-powered dev environment** — something smart, helpful, and super experimental 🤖⚙️<br>
 
-  This repo is our playground. Expect passion projects, a bit of chaos, and a whole lot of love for code 🚀<br><br>
+  This repo is our playground. Expect passion projects, a bit of chaos, and a whole lot of love for code 🚀<br>
 
   — Hadas & Shmuel 🚀🧠🎯 The Best Team Ever
 </p>
