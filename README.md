@@ -1,4 +1,6 @@
-<h1 align="center">Hey! We’re Hadas and Shmuel — two devs who just love building stuff together 💻🎉</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey! We’re Hadas and Shmuel;Just loving building stuff together💻🎉&center=true&width=700&height=50&color=F7F7F7&vCenter=true&size=32" />
+</h1>
 
 ###
 <ul align="left">
