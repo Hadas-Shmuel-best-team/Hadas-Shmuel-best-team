@@ -2,23 +2,18 @@
 
 ###
 <p align="center">
-  🌟 Hey hey! We’re Hadas and Shmuel — two curious devs, creative minds, and real-life friends who just love making cool stuff together 💻💬<br><br>
+  Hey! We’re Hadas and Shmuel — two devs who just love building stuff together 💻🎉<br><br>
 
-  This is our happy place on the internet — a space where ideas come to life, one fun project at a time. We’re not here for the hustle; we’re here for the spark ✨ The “wait, can we actually build that?” kind of energy that keeps us up all night coding and laughing.<br><br>
+  We’re not a company or a startup — just two friends chasing ideas, writing code, and having fun while doing it. We build for the joy of it, for the curiosity, and honestly… because it’s kinda addictive 🤓<br><br>
 
-  So far? We’ve already built a **CT scan analyzer** that dives into medical data (yes, like actual image processing stuff 🧠📊). It’s the kind of project that made us go, “whoa... we really did that!”<br><br>
+  So far? We made a **CT scan analyzer** (yes, like actual image processing stuff 🧠📊). Still can’t believe it worked. *whoa... we really did that!.*💥<br><br>
 
-  What’s next? Oh, just something casual like... an **AI-powered development environment** 🤖💡 A space where AI becomes your coding sidekick, idea whisperer, and project booster. We’re still shaping it, but let’s just say: we’re hyped. You should be too.<br><br>
+  Next up: an **AI-powered dev environment** — something smart, helpful, and super experimental 🤖⚙️<br><br>
 
-  Whether it's Python scripts running on a Debian setup, Raspberry Pi adventures, web automations, or random terminal wizardry — if it makes us curious, we build it. Together.<br><br>
+  This repo is our playground. Expect passion projects, a bit of chaos, and a whole lot of love for code 🚀<br><br>
 
-  No big team. No brand. Just us — geeking out, learning, dreaming, and coding side-by-side.<br><br>
-
-  Thanks for stopping by! If you’re into weird builds, wild ideas, and fun-loving code experiments… we think you’ll like it here 🎉🛸<br><br>
-
-  — **Hadas & Shmuel** 🧩
+  — Hadas & Shmuel 🚀🧠🎯 The Best Team Ever
 </p>
-
 ###
 
 <div align="center">
