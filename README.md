@@ -1,19 +1,21 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey! We’re Hadas and Shmuel — two devs who just love building stuff together 💻🎉</h1>
 
 ###
-<p align="left">
-  Hey! We’re Hadas and Shmuel — two devs who just love building stuff together 💻🎉<br>
+<ul align="left">
+  <li>We’re not a company or a startup — just two friends chasing ideas, writing code, and having fun while doing it.<br>
+  We build for the joy of it, for the curiosity, and honestly… because it’s kinda addictive 🤓</li>
 
-  We’re not a company or a startup — just two friends chasing ideas, writing code, and having fun while doing it.<br> We build for the joy of it, for the curiosity, and honestly… because it’s kinda addictive 🤓<br>
+  <li>So far? We made a <strong>CT scan analyzer</strong> (yes, like actual image processing stuff 🧠📊).<br>
+  Still can’t believe it worked. <em>whoa... we really did that!.</em>💥</li>
 
-  So far? We made a **CT scan analyzer** (yes, like actual image processing stuff 🧠📊). <br>Still can’t believe it worked. *whoa... we really did that!.*💥<br>
+  <li>Next up: an <strong>AI-powered dev environment</strong> — something smart, helpful, and super experimental 🤖⚙️</li>
 
-  Next up: an **AI-powered dev environment** — something smart, helpful, and super experimental 🤖⚙️<br>
+  <li>This repo is our playground. Expect passion projects, a bit of chaos, and a whole lot of love for code 🚀</li>
 
-  This repo is our playground. Expect passion projects, a bit of chaos, and a whole lot of love for code 🚀<br>
+  <li><strong>— Hadas & Shmuel 🚀🧠🎯 The Best Team Ever</strong></li>
+</ul>
 
-  — Hadas & Shmuel 🚀🧠🎯 The Best Team Ever
-</p>
+
 ###
 
 <div align="center">
