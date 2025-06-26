@@ -42,7 +42,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="playwrite">
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="50" alt="playwrite">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
